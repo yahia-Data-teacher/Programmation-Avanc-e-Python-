@@ -2,6 +2,8 @@
 - L'objectif est de s'exercer à la spécification et à la programmation de classes élémentaires.
 -  En particulier, il s'agit à partir d'un énoncé d'identifier et de définir les caractéristiques d'une classe modélisant un concept donné.
 
+![image](https://user-images.githubusercontent.com/78825764/211577116-1cd2e5c3-7cc5-4c4a-86fb-9cd5d8b07067.png)
+
 # Cahier des charges
 - Il s'agit de définir une classe Python permettant de modéliser des comptes bancaires.
 - Cette classe (Compte) doit permettre à une application de créer et utiliser autant de comptes bancaires que nécessaires, chaque compte étant un objet, instance (ou exemplaire) de la classe Compte.
